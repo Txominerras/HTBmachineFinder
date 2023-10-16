@@ -26,7 +26,7 @@ trap ctrl_c INT
 
 
 function helpPanel(){
-	echo -e "\n ${yellowColour}[+] Help Pannel: ${endColour}\n"
+	echo -e "\n ${yellowColour}[+] Help Panel: ${endColour}\n"
 	echo -e "\t ${purpleColour}u)${endColour} ${grayColour}Download or update all neccesary files ${endColour}"
 	echo -e "\t ${purpleColour}m)${endColour} ${grayColour}Search machines by name${endColour}"
 	echo -e "\t ${purpleColour}i)${endColour} ${grayColour}Search machines by IP address${endColour}"
