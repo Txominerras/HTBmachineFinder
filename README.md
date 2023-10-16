@@ -31,7 +31,7 @@ You can use the script with various options to search and retrieve information a
 
 ### Update Files
 
-This option updates the local machine database file (bundle.js) with the latest data from the Hack The Box website.
+This option updates the local machine database file (bundle.js) with the latest data from the https://htbmachines.github.io/ website.
 
 ```bash
 ./htb_machine_search.sh -u
