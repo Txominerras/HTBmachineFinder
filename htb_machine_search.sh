@@ -16,7 +16,7 @@ grayColour="\e[0;37m\033[1m"
 main_url="https://htbmachines.github.io/bundle.js" 
 
 function ctrl_c(){
-	echo -e "\n${redColour}[!] Saliendo... ${endColour}\n"
+	echo -e "\n${redColour}[!] Exit ${endColour}\n"
 	tput cnorm && exit 1
 }
 
