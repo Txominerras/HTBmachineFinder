@@ -34,7 +34,7 @@ function helpPanel(){
     echo -e "\t ${purpleColour}d)${endColour} ${grayColour}Search machines by difficulty${endColour} ${blueColour}(Possible values: Easy, Medium, Hard or Insane)${endColour}"
     echo -e "\t ${purpleColour}s)${endColour} ${grayColour}Search machines by skills${endColour}"
     echo -e "\t ${purpleColour}o)${endColour} ${grayColour}Search machines by operative system${endColour} ${blueColour}(Possible values: Linux or Windows)${endColour}"
-    echo -e "\t ${purpleColour}h)${endColour} ${grayColour}Show this pannel${endColour} \n"
+    echo -e "\t ${purpleColour}h)${endColour} ${grayColour}Show this panel${endColour} \n"
 
 }
 
